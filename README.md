@@ -1,5 +1,5 @@
-Come to the place with socks
-If this box is, then open
+#Come to the place with socks
+#If this box is, then open
 Take the nearest sock in the left hand from the drawer
 Do(when "In the left hand sock will not look like the right")
     If the socks in the shelf & in drower = 0
