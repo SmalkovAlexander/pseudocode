@@ -1,3 +1,5 @@
+//PutOnSocks
+<br/>
 <br/>Come to the place with socks
 <br/>If this box is, then open
 <br/>Take the nearest sock in the left hand from the drawer
